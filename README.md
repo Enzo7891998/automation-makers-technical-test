@@ -161,8 +161,8 @@ ID inválido
 Validación de autenticación simulada
 
 Herramientas utilizadas
-Postman
-Playwright
-Cucumber
+Postman,
+Playwright,
+Cucumber,
 GitHub Projects (gestión de tareas):
 https://github.com/users/Enzo7891998/projects/1
