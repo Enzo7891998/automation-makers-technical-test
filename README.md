@@ -101,10 +101,10 @@ Tras cada ejecución se genera un reporte HTML en `reports/cucumber-report.html`
 
 Las credenciales viven en [src/testdata/Users.ts](src/testdata/Users.ts) y se referencian desde los escenarios por su clave (`standard`, `lockedOut`, etc.). Para agregar un nuevo usuario basta con extender ese objeto y usar la nueva clave en los `.feature`.
 
-
+-------------------------------------
 
  API TESTING MODULE
-
+--------------------------------------
 Además de la automatización UI, este repositorio incluye documentación del módulo de pruebas de API.
 
  Módulo de Automatización – Smoke Test de Inicio de Sesión
@@ -114,14 +114,14 @@ Los escenarios de automatización del módulo UI están documentados en el sigui
 
  https://docs.google.com/spreadsheets/d/1guAEt0anXQ7LG6gGP6BnjnsPwGyqV3-BCCXW7QHVPaA/edit?gid=0
 
-
+--------------------------------
  Módulo Funcional
 
 Los casos de prueba, escenarios, técnicas y tipos de pruebas están documentados en el siguiente archivo:
 
 https://docs.google.com/spreadsheets/d/1guAEt0anXQ7LG6gGP6BnjnsPwGyqV3-BCCXW7QHVPaA/edit?gid=1210323104
 
- 
+------------------------------ 
 Reporte del módulo API Testing
 
 El reporte completo del módulo API Testing se encuentra documentado en Google Docs e incluye la especificación detallada de:
@@ -138,7 +138,7 @@ Resultados obtenidos (SCREENS)
 La documentación completa de los casos de prueba del módulo API se encuentra en Google Sheets e incluye los escenarios ejecutados.
 
  https://docs.google.com/spreadsheets/d/1guAEt0anXQ7LG6gGP6BnjnsPwGyqV3-BCCXW7QHVPaA/edit?gid=541592026
-  
+----------------------------  
 
  APIs utilizadas
 ReqRes → https://reqres.in/api/
@@ -158,7 +158,8 @@ Consulta de usuario creado
 ID inexistente
 ID inválido
 Validación de autenticación simulada
-🛠 Herramientas utilizadas
+
+Herramientas utilizadas
 Postman
 Playwright
 Cucumber
