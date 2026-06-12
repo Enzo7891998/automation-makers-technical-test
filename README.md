@@ -120,7 +120,6 @@ Los escenarios de automatización del módulo UI están documentados en el sigui
 Los casos de prueba, escenarios, técnicas y tipos de pruebas están documentados en el siguiente archivo:
 
 https://docs.google.com/spreadsheets/d/1guAEt0anXQ7LG6gGP6BnjnsPwGyqV3-BCCXW7QHVPaA/edit?gid=1210323104
-
 ------------------------------ 
 Reporte del módulo API Testing
 
